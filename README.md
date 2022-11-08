@@ -19,7 +19,7 @@ Projeto construído no evento Next Level Week edição Copa Do Mundo da Rocketse
 
 ## 💻 Projeto
 
-O NLW Copa é um calendário onde é possível ver os dias e horários dos jogos da Copa Do Mundo do Catar 2022. Inicialmente com a fase de grupos, mais com o andamento dos jogos, será atualizada com as próximas fases.
+O NLW Copa é um calendário onde é possível ver os dias e horários dos jogos da Copa Do Mundo do Catar 2022. Como desafio o professor Mayk Brito pediu que o projeto fosse além do que o que foi feito em aula, sendo assim implementei um menu responsivo que manda para a página do calendário e também adicionei todos os jogos da fase de grupos.
 
 # ❤ Contato
 
