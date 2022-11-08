@@ -8,7 +8,7 @@
 
 Projeto construído no evento Next Level Week edição Copa Do Mundo da Rocketseat.
 
-[ 🔗 Clique aqui para acessar](https://jonhy-willy.github.io/Projeto_eSports_Rocketseat/)
+[ 🔗 Clique aqui para acessar](https://projeto-nlw-copa-rocketseat-se2n.vercel.app/)
 
 ## 🚀 Tecnologias
 
