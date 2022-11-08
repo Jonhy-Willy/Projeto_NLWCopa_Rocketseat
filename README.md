@@ -23,7 +23,7 @@ O NLW Copa é um calendário onde é possível ver os dias e horários dos jogos
 
 # ❤ Contato
 
-Email: jonhy.willy.jw71@gmail.com
+Email: jonhy.willy.jw71@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/jonhy-willy-57b1051a4/
 
 Feito com ♥ by Jonhy
