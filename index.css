@@ -86,13 +86,13 @@ body {
 }
 
 .fonteMenu {
-  font-family: "Roboto", sans-serif;
+  font-family: "Qatar2022 Arabic Heavy", "Roboto", sans-serif;
 }
 
 .title {
   color: white;
   font-size: 22px;
-  font-family: "Qatar2022 Arabic Heavy";
+  font-family: "Qatar2022 Arabic Heavy", "Roboto", sans-serif;
   display: flex;
   align-items: center;
   justify-content: space-around;
