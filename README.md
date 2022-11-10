@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview_home.png)
 ![preview](./.github/preview_menu.png)
-![preview](./.github/preview_calend%C3%A1rio.png)
+![preview](./.github/preview_calendario.png)
 
 > Trilha Explorer
 
